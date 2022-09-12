@@ -1,2 +1,3 @@
-# java-notes
-Java Notes
+# Java Notes
+
+![Logo](image/java.svg)
