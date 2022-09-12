@@ -1,3 +1,5 @@
 # Java Notes
 
-![Logo](image/java.png)
+<p align="center">
+  <img src="image/java.png" width="150"/>
+</p>
