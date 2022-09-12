@@ -1,3 +1,3 @@
 # Java Notes
 
-![Logo](image/java.svg)
+![Logo](image/java.png)
