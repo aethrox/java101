@@ -73,3 +73,13 @@ Teknoloji ve onları geliştirmek için kullanılan diller sürekli bir evrim ge
 ### Medium üzerinde bulunan bir makale;
 
 [Yazılımda İsimlendirme](https://ibrahim-kurce.medium.com/yaz%C4%B1l%C4%B1mda-i%CC%87simlendirme-7fcc3d3d6965)
+
+## **Java üzerinde isimlendirme Kuralları**
+
+- Java'da isimlendirilen tüm ögeler sadece A-Z veya a-z gibi harfler, $ karakteri veya \_ karakteri ile başlayabilirler.
+- Keyword’ler (Yasaklı Kelimeler) isimlendirmede kullanılamaz
+  ![](image/naming.png)
+- Sınıflar için upper camel case kullanılır. HelloWorld
+- Metotlar için lower camel case kullanılır. helloWorld
+- Değişkenler için lower camel case kullanılır. helloWorld
+- Sabitler için screaming snake case kullanılır. HELLO_WORLD
