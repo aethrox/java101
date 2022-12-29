@@ -84,7 +84,7 @@ Teknoloji ve onları geliştirmek için kullanılan diller sürekli bir evrim ge
 - Değişkenler için lower camel case kullanılır. helloWorld
 - Sabitler için screaming snake case kullanılır. HELLO_WORLD
 
-# Main Metodu ve Kullanımı
+## Main Metodu ve Kullanımı
 
 Java'da bir program çalışacağı zaman, kodlar ilk olarak main metodu içerisinden başlar. Main metodu sayesinde derleyiciye, programı buradan başlatılması konusunda referans oluşturulur.
 
@@ -99,3 +99,9 @@ Java'da bir program çalışacağı zaman, kodlar ilk olarak main metodu içeris
 Artık programı çalıştırdığımızda, derleyici ilk olarak main metodu okuyup sonrasında gerekli işlemleri yapacaktır.
 
 Main metodu yazılırken, args yerine başka bir isimlendirme yapılabilir. Ancak genellikle args sözcüğü kullanılır ve bu sözcük arguments sözcüğünün kısaltmasıdır. Arguments ile ifade edilen kısım, sınıf çalıştırılırken JVM tarafından bu sınıfa verilen parametrelerdir.
+
+## Genel Sözdizimi (**Syntax**)
+
+#
+
+![java-syntax](image/java-syntax.jpg)
